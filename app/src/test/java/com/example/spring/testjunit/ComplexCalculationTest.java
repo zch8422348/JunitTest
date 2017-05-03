@@ -1,6 +1,8 @@
 package com.example.spring.testjunit;
 
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.robolectric.RobolectricTestRunner;
 
 import static org.junit.Assert.assertEquals;
 
@@ -10,7 +12,7 @@ import static org.junit.Assert.assertEquals;
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 
-
+@RunWith(RobolectricTestRunner.class)
 public class ComplexCalculationTest {
     ComplexCalculation cc = new ComplexCalculation();
 
