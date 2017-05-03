@@ -3,66 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a890ee8445927649d9ed50f625a315d8758688be">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_aa14577c62665bc49defd62c8b98fc45939f6a94.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_989ab8f07519b94c6b04ec7c2b48cbc8bd39503b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
-        jumboMode="false"
+        jar="/home/spring/Android/sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_73ee383cac1944994466438d7b0b507b9d117352.jar" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fad2d73c99e62e39542d8ab43df4ab49e5372dc8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
-        jumboMode="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_efc4e46d71dbf892df283a211d4e16bc9401172a.jar" />
+        sha1="59394253a4ad1ae0dbfbed5303785dd448781ba9">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5c2f7dcc1411b6f2249ebd5dae2768f19d47f483.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
-        jumboMode="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_924f314efe2d8b78e2f81c33d0d968ea74f7333b.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_fac0c2c51420bc1c7db98766b14d8d533c542198.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
-        jumboMode="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_64d8b463d56ffb107557598f578f028c6f1431bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_4c6fc34e5a7d834870065bfadaeb70202b380dec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_b9f8311f0a5b5554f90a300baaadcc3b893c17a8.jar" />
+        sha1="f3d118d3ea8a6695017e5d4c85507d1ee64d6858">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/instant-run_eb27591430bcf0f3469407e5661f51652ae30b87.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_b9f8311f0a5b5554f90a300baaadcc3b893c17a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/spring/Android/sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -84,12 +75,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
-        jumboMode="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="479c1e06db31c432330183f5cae684163f186146">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_108e2f9b3f04c3caac62c97f52e90bffddc7acc4.jar" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_b9f8311f0a5b5554f90a300baaadcc3b893c17a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_8cea92cf9605a8a87d6298fe22ff85f6fae20599.jar" />
     </item>
     <item
         is-multidex="false"
@@ -99,33 +99,6 @@
         revision="25.0.0"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
         <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_fac0c2c51420bc1c7db98766b14d8d533c542198.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_9b43a254555799a55ca0b69bb0a74076fe0004c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_77e0c1c2fd2f9c4a601e0a09ca32dd93b35e5060.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_0e03ee9c933a37c8a99ad102037064a9e5825b03.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,30 +120,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
-        jumboMode="false"
+        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_0779ca8489a60c78b173e8df73728a746003f988.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_3f2363bf2d7bfbe355fb16e14aeadfb6fcb153f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
-        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_4bfaa0d654a26d9b3b753d84309b350e5e0d99da.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/spring/Work/code/aios-public/aios-for-car-android-debug/TestJunit/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5b2228b12f2bf7f8c04247ccf06842c37b41b422.jar" />
     </item>
 
 </items>
