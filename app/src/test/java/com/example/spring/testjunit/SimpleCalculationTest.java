@@ -1,6 +1,8 @@
 package com.example.spring.testjunit;
 
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.robolectric.RobolectricTestRunner;
 
 import static junit.framework.Assert.assertEquals;
 
@@ -26,17 +28,19 @@ import static junit.framework.Assert.assertEquals;
 //        assertEquals(500, c);
 //    }
 //}
+@RunWith(RobolectricTestRunner.class)
+public class SimpleCalculationTest {
+    SimpleCalculation sc = new SimpleCalculation();
 
-    public class SimpleCalculationTest {
-        SimpleCalculation sc = new SimpleCalculation();
-        @Test
-        public void AddTest() {
-            int c = sc.Add(3, 5);
-            assertEquals(8, c);
-        }
-        @Test
-        public void SubtrationTest() {
-            int c = sc.Subtration(20, 5);
-            assertEquals(15, c);
-        }
+    @Test
+    public void AddTest() {
+        int c = sc.Add(3, 5);
+        assertEquals(8, c);
+    }
+
+    @Test
+    public void SubtrationTest() {
+        int c = sc.Subtration(20, 5);
+        assertEquals(15, c);
+    }
 }
